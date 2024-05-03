@@ -1,0 +1,7 @@
+{
+  "id": "hamburguer-salad",
+  "name": "Hamburguer Salad",
+  "preco": "25",
+  "descricao": "Um hambúrguer Salad é feito com pão de hambúrguer, carne de hambúrguer, alface, tomate, cebola, pepino, pimentão, molho de salada ou vinagrete, e pode incluir opcionalmente maionese, mostarda, ketchup, picles.",
+  "img": "./api/produtos/hamburguer-salad/hamburguer-salad.png"
+}

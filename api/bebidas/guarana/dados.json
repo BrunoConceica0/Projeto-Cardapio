@@ -1,0 +1,6 @@
+{
+  "id": "guarana",
+  "name": "Guaraná",
+  "preco": "10",
+  "img": "./api/bebidas/guarana/guarana.png"
+}

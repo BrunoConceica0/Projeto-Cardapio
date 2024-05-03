@@ -1,0 +1,7 @@
+{
+  "id": "hamburguer-smash",
+  "name": "Hamburguer Smash",
+  "preco": "35",
+  "descricao": "Um hambúrguer smash é feito com carne de hambúrguer, pão de hambúrguer e pode incluir opcionalmente queijo, alface, tomate, cebola, picles e vários molhos, como ketchup, maionese, mostarda e molho barbecue.",
+  "img": "./api/produtos/hamburguer-smash/hamburguer-smash.png"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "hamburguer-chicken",
+  "name": "Hamburguer Chicken",
+  "preco": "32",
+  "descricao": "Um hambúrguer de frango é feito com pão de hambúrguer, filé de frango grelhado ou empanado, alface, tomate, cebola, molho de maionese ou molho barbecue, molho de mostarda ou molho de iogurte, picles e bacon.",
+  "img": "./api/produtos/hamburguer-chinken/hamburguer-chinken.png"
+}

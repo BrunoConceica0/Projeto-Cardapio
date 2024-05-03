@@ -1,0 +1,6 @@
+{
+  "id": "coca-cola",
+  "name": "Coca Cola",
+  "preco": "10",
+  "img": "./api/bebidas/coca-cola/coca-cola.png"
+}

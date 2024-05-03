@@ -1,0 +1,7 @@
+{
+  "id": "hamburguer-cheddar",
+  "name": "Hamburguer Cheddar",
+  "preco": "30",
+  "descricao": "Um hambúrguer cheddar é feito com pão de hambúrguer, carne de hambúrguer, queijo cheddar, alface, tomate, molho de cheddar, maionese e bacon.",
+  "img": "./api/produtos/hamburguer-cheddar/hamburguer-cheddar.png"
+}

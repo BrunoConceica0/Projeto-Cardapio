@@ -1,0 +1,7 @@
+{
+  "id": "hamburguer-salad-turdo",
+  "name": "Hamburguer Salad Turbo",
+  "preco": "25",
+  "descricao": "Um hambúrguer salad turbo é feito com pão de hambúrguer, carne de hambúrguer, alface, tomate, cebola, pepino, pimentão, molho de salada ou vinagrete, e pode incluir opcionalmente maionese, mostarda, ketchup, picles, queijo, bacon, ovo frito, anéis de cebola empanados e molho barbecue.",
+  "img": "./api/produtos/hamburguer-salad-turdo/hamburguer-salad-turdo.png"
+}

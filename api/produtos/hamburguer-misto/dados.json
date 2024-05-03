@@ -1,0 +1,7 @@
+{
+  "id": "hamburguer-misto",
+  "name": "Hamburguer Misto",
+  "preco": "28",
+  "descricao": "Um hambúrguer Misto inclui pão de hambúrguer, carne de hambúrguer, linguiça, queijo, alface, tomate, cebola, maionese, ketchup, mostarda, picles e bacon.",
+  "img": "./api/produtos/hamburguer-misto/hamburguer-misto.png"
+}
