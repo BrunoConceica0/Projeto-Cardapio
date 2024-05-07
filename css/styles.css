@@ -1,8 +1,11 @@
 @import url("./global/global.css");
 
 @import url("./utilities/cores.css");
+@import url("./utilities/components.css");
 
 @import url("./header.css");
+
+@import url("./caradapio.css");
 
 @tailwind base;
 @tailwind components;

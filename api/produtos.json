@@ -1,0 +1,58 @@
+[
+  {
+    "id": "hamburguer-bacon",
+    "name": "Hamburguer Bacon",
+    "preco": "28",
+    "descricao": "Um hambúrguer branco é feito carne de hambúrguer, queijo branco, alface, tomate, cebola , picles e bacon.",
+    "img": "./api/produtos/hamburguer-bacon/hamburguer-bacon.png"
+  },
+  {
+    "id": "hamburguer-cheddar",
+    "name": "Hamburguer Cheddar",
+    "preco": "30",
+    "descricao": "Um hambúrguer cheddar carne de hambúrguer, queijo cheddar, molho de cheddar, maionese e bacon.",
+    "img": "./api/produtos/hamburguer-cheddar/hamburguer-cheddar.png"
+  },
+  {
+    "id": "hamburguer-chicken",
+    "name": "Hamburguer Chicken",
+    "preco": "32",
+    "descricao": "Um hambúrguer de frango é feito com filé de frango grelhado ou empanado, alface, tomate, cebola, molho de maionese.",
+    "img": "./api/produtos/hamburguer-chicken/hamburguer-chicken.png"
+  },
+  {
+    "id": "hamburguer-misto",
+    "name": "Hamburguer Misto",
+    "preco": "28",
+    "descricao": "Um hambúrguer Misto inclui carne de hambúrguer, linguiça, queijo, mostarda, picles e bacon.",
+    "img": "./api/produtos/hamburguer-misto/hamburguer-misto.png"
+  },
+  {
+    "id": "hamburguer-salad",
+    "name": "Hamburguer Salad",
+    "preco": "25",
+    "descricao": "Um hambúrguer Salad é feito carne de hambúrguer, alface, tomate, cebola, pepino, pimentão,.",
+    "img": "./api/produtos/hamburguer-salad/hamburguer-salad.png"
+  },
+  {
+    "id": "hamburguer-salad-turdo",
+    "name": "Hamburguer Salad Turbo",
+    "preco": "25",
+    "descricao": "Um hambúrguer salad turbo é feito com  carne de hambúrguer, alface, tomate, cebola, pepino, pimentão, queijo, bacon, ovo frito.",
+    "img": "./api/produtos/hamburguer-salad-turdo/hamburguer-salad-turdo.png"
+  },
+  {
+    "id": "hamburguer-smash",
+    "name": "Hamburguer Smash",
+    "preco": "35",
+    "descricao": "Um hambúrguer smash é feito com carne de hambúrguer, pão de hambúrguer, queijo, alface, tomate, cebola e molho barbecue.",
+    "img": "./api/produtos/hamburguer-smash/hamburguer-smash.png"
+  },
+  {
+    "id": "humburguer-chiken-extra",
+    "name": "Hamburguer Chicken Extra",
+    "preco": "35",
+    "descricao": "Um hambúrguer chicken extra é feito com filé de frango empanado ou grelhado, queijo, alface, tomate, ovo e anéis de cebola empanados.",
+    "img": "./api/produtos/humburguer-chiken-extra/humburguer-chiken-extra.png"
+  }
+]

@@ -1,7 +1,7 @@
 {
-  "id": "hamburguer-banco",
-  "name": "Hamburguer Banco",
+  "id": "hamburguer-bacon",
+  "name": "Hamburguer bacon",
   "preco": "28",
   "descricao": "Um hambúrguer branco é feito com pão de hambúrguer branco, carne de hambúrguer, queijo branco, alface, tomate, cebola , maionese, mostarda, ketchup, picles e bacon.",
-  "img": "./api/produtos/hamburguer-banco/hamburguer-banco.png"
+  "img": "./api/produtos/hamburguer-bacon/hamburguer-bacon.png"
 }
